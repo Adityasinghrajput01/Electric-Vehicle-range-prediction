@@ -1,5 +1,15 @@
 # 🚗 Electric Vehicle Range Prediction using Machine Learning & Power BI
 
+# 🌍 Live Interactive Power BI Dashboard
+
+## 🔗 Dashboard Link
+
+https://app.powerbi.com/view?r=eyJrIjoiZTk5YTljNWQtMTZlZC00NzIxLTg0NzMtNzM3NTI4OWNlZWFlIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=1b035829a525b5026387
+
+> **💡 Explore the interactive dashboard to analyze EV trends, business insights, environmental analysis, and machine learning model performance.**
+
+---
+
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
@@ -66,7 +76,7 @@ The complete workflow includes:
 
 # 📂 Project Structure
 
-```
+```text
 Electric-Vehicle-range-prediction/
 
 │
@@ -158,14 +168,6 @@ Electric-Vehicle-range-prediction/
 
 ---
 
-# 🌍 Live Interactive Dashboard
-
-👉 **Explore the Dashboard Here**
-
-https://app.powerbi.com/view?r=eyJrIjoiZTk5YTljNWQtMTZlZC00NzIxLTg0NzMtNzM3NTI4OWNlZWFlIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=1b035829a525b5026387
-
----
-
 # 📈 Business Insights
 
 - Battery capacity is the strongest factor influencing driving range.
@@ -233,4 +235,5 @@ LinkedIn:
 https://www.linkedin.com/in/aditya-kumar-singh-173911321/
 
 ---
+
 ⭐ If you found this project useful, consider giving it a Star!
