@@ -192,6 +192,34 @@ Electric-Vehicle-range-prediction/
 
 ---
 
+---
+
+# 📈 Machine Learning Visualizations
+
+### 🔥 Correlation Heatmap
+
+![Correlation Heatmap](page%20Screenshots/correlation.png)
+
+---
+
+### 📉 Linear Regression - Actual vs Predicted
+
+![Linear Regression](page%20Screenshots/linear%20regression%20-%20Actual%20vs%20predicted.png)
+
+---
+
+### 🌲 Random Forest - Actual vs Predicted
+
+![Random Forest](page%20Screenshots/Random%20Forest%20-%20Actual%20vs%20Predicted.png)
+
+---
+
+### 📊 Residual Distribution
+
+![Residual Distribution](page%20Screenshots/Residual%20Distribution.png)
+
+---
+
 # 📊 Model Evaluation
 
 The project compares multiple Machine Learning models using evaluation metrics such as:
