@@ -156,15 +156,15 @@ Electric-Vehicle-range-prediction/
 
 ---
 
-### 💼 Business Insights & Recommendations
-
-![Business Insights](page%20Screenshots/Business%20Insights%20%26%20Recommendations.png)
-
----
-
 ### 📉 Model Performance & Evaluation
 
 ![Model Performance](page%20Screenshots/Model%20Performance%20%26%20Evaluation.png)
+
+---
+
+### 💼 Business Insights & Recommendations
+
+![Business Insights](page%20Screenshots/Business%20Insights%20%26%20Recommendations.png)
 
 ---
 
